@@ -5,6 +5,7 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [X] CSS
 - [X] Vanilla JavaScript (Plain)
 - [X] JavaScript DOM Scripting
+- [ ] Authoriza
 - [ ] Design Patterns (Java, PHP, JavaScript)
 - [ ] Java I/O
 - [x] Java Object Oriented Programming
@@ -20,6 +21,7 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [ ] Learn Life Cycle of a Servlet
 - [ ] Learn a PHP Framework (Probably Laravel)
 - [ ] Learn Spring Framework in Java (If I can, sure I can I must believe that I can *insert smiley face)
+- [ ] API's RESTful Services (Java/PHP)
 
 
 
