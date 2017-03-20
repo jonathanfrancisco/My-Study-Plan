@@ -9,7 +9,7 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [ ] Java I/O
 - [x] Java Object Oriented Programming
 - [ ] Java Object Oriented Design (To get a solid foundation in Object Oriented Programming)
-- [ ] Learn MVC Architecture
+- [x] Learn MVC Desgin Pattern
 - [X] AJAX Using Vanilla JavaScript(Plain)
 - [ ] AJAX using jQuery
 - [X] SQL(RDBMS) Basics
