@@ -6,16 +6,16 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [X] Vanilla JavaScript (Plain)
 - [X] JavaScript DOM Scripting
 - [ ] Design Patterns (Java, PHP, JavaScript)
-- [ ] Java I/O
+- [x] Java I/O
 - [x] Java Object Oriented Programming
 - [ ] Java Object Oriented Design (To get a solid foundation in Object Oriented Programming)
 - [x] Learn MVC Desgin Pattern
 - [X] AJAX Using Vanilla JavaScript(Plain)
-- [ ] AJAX using jQuery
+- [x] AJAX using jQuery
 - [X] SQL(RDBMS) Basics
 - [X] PHP Basics
 - [ ] PHP Authentication and Authorization
-- [ ] jQuery(Not sure)
+- [x] jQuery
 - [ ] BootStrap CSS Framework (A must tool in my arsenal)
 - [ ] JSP,Servlets and JSF
 - [ ] Learn Life Cycle of a Servlet
