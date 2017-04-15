@@ -20,7 +20,7 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [ ] JSP,Servlets and JSF
 - [ ] Learn Life Cycle of a Servlet
 - [ ] Learn a PHP Framework (Probably Laravel)
-- [ ] Learn Spring Framework in Java (If I can, sure I can I must believe that I can *insert smiley face)
+- [ ] Learn Spring Framework in Java
 - [ ] API's RESTful Services (Java/PHP)
 
 
