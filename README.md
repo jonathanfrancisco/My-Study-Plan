@@ -16,7 +16,7 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [X] PHP Basics
 - [ ] PHP Authentication and Authorization
 - [x] jQuery
-- [ ] BootStrap CSS Framework (A must tool in my arsenal)
+- [x] BootStrap CSS Framework (A must tool in my arsenal)
 - [ ] JSP,Servlets and JSF
 - [ ] Learn Life Cycle of a Servlet
 - [ ] Learn a PHP Framework (Probably Laravel)
