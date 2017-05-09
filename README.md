@@ -14,15 +14,23 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [x] AJAX using jQuery
 - [X] SQL(RDBMS) Basics
 - [X] PHP Basics
-- [ ] PHP Authentication and Authorization
+- [ ] PHP Authentication && Authorization
 - [x] jQuery
 - [x] BootStrap CSS Framework (A must tool in my arsenal)
-- [ ] JSP,Servlets and JSF
+- [ ] JSP,Servlets && JSF
 - [ ] Learn Life Cycle of a Servlet
 - [ ] Learn a PHP Framework (Probably Laravel)
 - [ ] Learn Spring Framework in Java
-- [ ] API's RESTful Services (Java/PHP)
+- [ ] RESTful Web Services 
+- [ ] Angular || React || Vue
+- [ ] Explore MEAN Stack
+- [ ] 
 
+Other
+
+- [ ] Algorithmic complexity / Big-O / Asymptotic analysis
+- [ ] Algebra (Hahaha. Yup, I suck at math.)
+- [ ] Probability and Statistics
 
 
 
