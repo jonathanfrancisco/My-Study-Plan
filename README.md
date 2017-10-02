@@ -20,22 +20,20 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [ ] Learn a PHP Framework (Laravel)
 - [ ] RESTful Web Services 
 - [ ] ES6
+- [ ] Weird parts of JavaScript / In-depth
 - [ ] React.JS
-- [ ] Android
-- [ ] Explore Node.js/Express?
+- [ ] Redux
+- [ ] Android (Maybe Native or React Native)
+- [ ] Try out Node.js/Express?
 
 Other
 
 - [ ] Algorithmic complexity / Big-O / Asymptotic analysis
-- [ ] Algebra (Hahaha. Yup, I suck at math.)
-- [ ] Probability and Statistics
+- [ ] Data Structures and Algorithms
+- [ ] Software Engineering Principles
+- [ ] Algebra (Maybe explorer A.I in the future:) P.S Hahaha. Yup, I suck at math.)
 
 
-Undecided:
-
-- [ ] JSP,Servlets && JSF
-- [ ] Learn Life Cycle of a Servlet
-- [ ] Learn Spring Framework in Java
 
 
 
