@@ -25,6 +25,8 @@ My Study Plan to becoming a Full-Stack Web Developer
 - [ ] Redux
 - [ ] Android (Maybe Native or React Native)
 - [ ] Try out Node.js/Express?
+- [ ] CSS Grid
+- [ ] CSS Flexbox
 
 Other
 
